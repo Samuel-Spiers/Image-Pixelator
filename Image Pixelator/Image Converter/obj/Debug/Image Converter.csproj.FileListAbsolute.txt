@@ -1,0 +1,22 @@
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\bin\Debug\Image Converter.exe.config
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\bin\Debug\Image Converter.exe
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\bin\Debug\Image Converter.pdb
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\obj\Debug\Image Converter.csproj.AssemblyReference.cache
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\obj\Debug\Image_Converter.Properties.Resources.resources
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\obj\Debug\Image Converter.csproj.GenerateResource.cache
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\obj\Debug\Image Converter.csproj.CoreCompileInputs.cache
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\obj\Debug\Image Converter.exe
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\obj\Debug\Image Converter.pdb
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\obj\Debug\Image Converter.exe.config
+C:\Users\samow\OneDrive\Desktop\Solo Projects\Image Converter\Image Converter\obj\Debug\Image_Converter.mainWindow.resources
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\bin\Debug\Image Converter.exe.config
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\bin\Debug\Image Converter.exe
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\bin\Debug\Image Converter.pdb
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\obj\Debug\Image Converter.csproj.AssemblyReference.cache
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\obj\Debug\Image Converter.exe.config
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\obj\Debug\Image_Converter.mainWindow.resources
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\obj\Debug\Image_Converter.Properties.Resources.resources
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\obj\Debug\Image Converter.csproj.GenerateResource.cache
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\obj\Debug\Image Converter.csproj.CoreCompileInputs.cache
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\obj\Debug\Image Converter.exe
+C:\Users\samow\OneDrive\Desktop\Image Pixelator\Image Converter\obj\Debug\Image Converter.pdb
